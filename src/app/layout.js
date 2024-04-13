@@ -10,7 +10,7 @@ config.autoAddCss = false;
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Ticket Vault',
+  title: 'Task Vault',
   description: 'Simplify project management with easy task tracking',
 };
 
