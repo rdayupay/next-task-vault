@@ -1,6 +1,6 @@
-# Ticket Vault
+# Task Vault
 
-Ticket Vault is a project management tool designed to simplify task tracking and issue resolution.
+Task Vault is a project management tool designed to simplify task tracking and issue resolution.
 
 ## Getting Started
 
