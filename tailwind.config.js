@@ -16,7 +16,7 @@ module.exports = {
         nav: '#2C3E50',
         page: '#ECEFF1',
         card: '#FFFFFF',
-        'card-hover': '#E3F2FD',
+        'card-hover': '#FFF9C4',
         'default-text': '#37474f',
         'nav-text': '#FFFFFF',
         'blue-accent': '#55ACEE',
