@@ -22,9 +22,20 @@
   h4 {
     @apply text-xl;
   }
-
   p {
     @apply text-sm text-default-text;
+  }
+
+  form {
+    @apply rounded-xl p-4;
+  }
+  label {
+    @apply mt-4;
+  }
+  input,
+  select,
+  textarea {
+    @apply m-1 rounded border border-nav bg-card p-1;
   }
 }
 
