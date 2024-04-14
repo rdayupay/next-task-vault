@@ -2,6 +2,15 @@
 
 Task Vault is a project management tool designed to simplify task tracking and issue resolution.
 
+## Technologies Used
+
+- Next.js
+- MongoDB
+- Mongoose
+- React
+- Tailwind CSS
+- ESLint
+
 ## Getting Started
 
 First, install the dependencies:
